@@ -1,5 +1,7 @@
 # Portfolio
 
+![person](images/person.jpg)
+
 ## Leistungen
 
 Nach Absprache.
