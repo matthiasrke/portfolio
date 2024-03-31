@@ -1,5 +1,5 @@
 <style>
-	@import "/stylesheets/main.css"
+	@import "stylesheets/main.css"
 </style>
 
 # Matthias Rke
