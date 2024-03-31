@@ -1,9 +1,0 @@
----
----
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-h1 {
-    font-weight: 700;
-}
