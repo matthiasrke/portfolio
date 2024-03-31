@@ -1,4 +1,8 @@
 ---
 ---
 
-@import "../../custom.css";
+@import "{{ site.theme }}";
+
+h1 {
+    font-weight: 700;
+}
