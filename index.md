@@ -1,4 +1,4 @@
-# Portfolio
+# Matthias Rke
 
 ![person](images/person.jpg)
 
