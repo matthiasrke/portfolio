@@ -2,4 +2,4 @@ title: Theme
 description: Theme for GitHub Pages.
 theme: minima
 minima:
-  skin: auto
+  skin: dark
