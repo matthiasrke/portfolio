@@ -1,3 +1,9 @@
+---
+layout: page
+title: Startseite
+permalink: /startseite/
+---
+
 # Matthias Rke
 
 ![person](images/person.jpg)
