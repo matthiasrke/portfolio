@@ -20,5 +20,7 @@ E-Mail: portfolio@matthiasrke.de
 ## Impressum
 
 Matthias Rke
+
 Hauptstraße 1
+
 123456 Hauptstadt
