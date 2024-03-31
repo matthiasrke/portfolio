@@ -1,3 +1,7 @@
+<style>
+	@import "/stylesheets/main.css"
+</style>
+
 # Matthias Rke
 
 ![person](images/person.jpg)
