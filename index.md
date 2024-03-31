@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Startseite
-permalink: /startseite/
 ---
 
 # Matthias Rke
