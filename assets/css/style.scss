@@ -1,10 +1,15 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @import
-  "minima";
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
 
 // Custom CSS
 h1 {
   font-weight: 700;
+}
+.site-title, .site-title:visited {
+    color: green;
 }
