@@ -7,9 +7,10 @@
   "minima/initialize";
 
 // Custom CSS
-h1 {
-  font-weight: 700;
-}
-.site-title, .site-title:visited {
-    color: green;
+.site-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background-color: $background-color;
 }
